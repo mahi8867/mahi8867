@@ -1,16 +1,45 @@
-Hi, I'm Mahesh 👋
+Hi 👋, I'm Mahesh Bannur
 
-DevOps enthusiast from Bangalore, India
+🚀 DevOps Enthusiast from Bangalore, India
 
-Skills:
+---
+
+🔧 Skills
+
 - Linux
 - Git & GitHub
 - Docker
 - Jenkins
 - Kubernetes
 
-Currently learning:
+---
+
+🚀 Projects
+
+- 🔹 CI/CD Pipeline using GitHub → Jenkins → Docker → Kubernetes (In Progress)
+- 🔹 Dockerized Applications
+- 🔹 Kubernetes Deployments
+
+---
+
+📚 Currently Learning
+
 - Terraform
+- AWS
 - Ansible
 
-Working on improving my skills and building projects 🚀
+---
+
+🎯 Goal
+
+To become a DevOps Engineer and work on real-world cloud infrastructure
+
+---
+
+📈 What I'm Doing
+
+- Practicing daily DevOps tasks
+- Building hands-on projects
+- Improving automation and deployment skills
+
+---
